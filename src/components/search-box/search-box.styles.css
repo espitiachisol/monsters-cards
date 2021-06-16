@@ -1,0 +1,14 @@
+.search {
+  -webkit-appearance: none;
+  border: 1px solid whitesmoke;
+  outline: none;
+  padding: 15px 30px;
+  width: 250px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  font-size: 20px;
+  background-color: whitesmoke;
+}
+.search:hover {
+  background-color: white;
+}
